@@ -5,3 +5,4 @@ import os
 hello = tf.constant('Hello, Tensorflow!')
 sess  = tf.Session()
 print(sess.run(hello))
+
